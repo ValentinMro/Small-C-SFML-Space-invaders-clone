@@ -1,0 +1,5 @@
+background: https://opengameart.org/content/space-backgrounds-8
+alien: https://opengameart.org/content/space-invaders-cartoon-icon
+player: https://opengameart.org/content/technozomians-owl
+meteor: https://opengameart.org/content/meteor-0
+fireball: https://opengameart.org/content/cartoon-fireball-1600x1600-png
