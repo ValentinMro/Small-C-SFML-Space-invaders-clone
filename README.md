@@ -1,4 +1,5 @@
-# Small-C-SFML-Space-invaders-clone
--> A small and simple clone of Space-invaders, done with C++ and SFML.
+# simple C++ SFML space-invaders clone
+
+-> A small and simple clone of space-invaders using C++ and the SFML library.
 
 Project unfinished! Still working on it.
